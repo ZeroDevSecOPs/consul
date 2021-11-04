@@ -31,7 +31,7 @@ require (
 	github.com/google/tcpproxy v0.0.0-20180808230851-dfa16c61dad2
 	github.com/hashicorp/consul/api v1.8.0
 	github.com/hashicorp/consul/sdk v0.7.0
-	github.com/hashicorp/go-bexpr v0.1.2
+	github.com/hashicorp/go-bexpr v0.1.11
 	github.com/hashicorp/go-checkpoint v0.5.0
 	github.com/hashicorp/go-cleanhttp v0.5.1
 	github.com/hashicorp/go-connlimit v0.3.0
@@ -67,8 +67,8 @@ require (
 	github.com/mitchellh/copystructure v1.0.0
 	github.com/mitchellh/go-testing-interface v1.14.0
 	github.com/mitchellh/hashstructure v0.0.0-20170609045927-2bca23e0e452
-	github.com/mitchellh/mapstructure v1.4.1-0.20210112042008-8ebf2d61a8b4
-	github.com/mitchellh/pointerstructure v1.0.0
+	github.com/mitchellh/mapstructure v1.4.1
+	github.com/mitchellh/pointerstructure v1.2.1
 	github.com/mitchellh/reflectwalk v1.0.1
 	github.com/patrickmn/go-cache v2.1.0+incompatible
 	github.com/pierrec/lz4 v2.5.2+incompatible // indirect
@@ -78,7 +78,7 @@ require (
 	github.com/rboyer/safeio v0.2.1
 	github.com/ryanuber/columnize v2.1.0+incompatible
 	github.com/shirou/gopsutil/v3 v3.20.10
-	github.com/stretchr/testify v1.6.1
+	github.com/stretchr/testify v1.7.0
 	go.opencensus.io v0.22.0 // indirect
 	go.uber.org/goleak v1.1.10
 	golang.org/x/crypto v0.0.0-20210513164829-c07d793c2f9a
